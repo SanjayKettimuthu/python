@@ -1,1 +1,1 @@
-# python
+#Collection of daily python file
